@@ -19,28 +19,21 @@ h1 {
 
 .add-todo-wrapper {
     display: flex;
-    width: 700px;
+    width: 500px;
     min-height: 40px;
     align-items: center;
     background-color: darkgoldenrod;
     border-radius: 5px;
     padding: 10px;
-    justify-content: space-between;
 }
 
 .input-wrapper {
-    width: 50%;
+    width: 80%;
 }
 
 .input-wrapper input {
     width: 100%;
     height: 25px;
-}
-.data-end {
-    margin-left: 60px;
-    width: 25%;
-    display: flex;
-    justify-content: flex-start;
 }
 
 .button-wrapper {
